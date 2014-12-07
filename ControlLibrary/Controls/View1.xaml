@@ -1,0 +1,20 @@
+<UserControl x:Class="ControlLibrary.Controls.View1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="77" d:DesignWidth="300">
+    <Grid Margin="0,0,0,0">
+        <!--
+        not compatible with Silver Light
+        <Label Content="Hello World!" HorizontalAlignment="Left" Margin="66,125,0,0" VerticalAlignment="Top" Width="182" Background="#FFC37979" Foreground="#FF2A2AB8" FontSize="16" FontStyle="Italic" FontWeight="Bold"/>
+        -->
+        <TextBlock x:Name="ContentText" Text="Hello World!" Margin="0,0,0,10"/>
+
+        
+        <!-- Add button to window -->
+        <Button Name="button" Click="button_Click" Margin="0,28,0,0">Click Me!</Button>
+
+    </Grid>
+</UserControl>

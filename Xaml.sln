@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightApplication2", "SilverlightApplication2\SilverlightApplication2.csproj", "{F9FB6681-E73C-403C-974B-2A4D2D71C429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightApplication2.Web", "SilverlightApplication2.Web\SilverlightApplication2.Web.csproj", "{CFA79857-F3F3-4FBC-AF9F-21A78C8BCCA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBrowserDemo", "WpfBrowserDemo\WpfBrowserDemo.csproj", "{70802A67-B1DE-4E17-AC29-B2041836D64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDemo", "WpfDemo\WpfDemo.csproj", "{C7A0F651-BDA2-481B-B43A-C0C48E7ACE43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlLibrary1", "ControlLibrary\WpfControlLibrary1.csproj", "{70CC4498-A722-4C6B-8E5E-9F5EE5DC3DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightClassLibrary1", "ControlLibrary\SilverlightClassLibrary1.csproj", "{22EA5030-41F0-4F53-B33D-4B1C4FBD49E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FB6681-E73C-403C-974B-2A4D2D71C429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FB6681-E73C-403C-974B-2A4D2D71C429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FB6681-E73C-403C-974B-2A4D2D71C429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FB6681-E73C-403C-974B-2A4D2D71C429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA79857-F3F3-4FBC-AF9F-21A78C8BCCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA79857-F3F3-4FBC-AF9F-21A78C8BCCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA79857-F3F3-4FBC-AF9F-21A78C8BCCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA79857-F3F3-4FBC-AF9F-21A78C8BCCA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70802A67-B1DE-4E17-AC29-B2041836D64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70802A67-B1DE-4E17-AC29-B2041836D64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70802A67-B1DE-4E17-AC29-B2041836D64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70802A67-B1DE-4E17-AC29-B2041836D64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A0F651-BDA2-481B-B43A-C0C48E7ACE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A0F651-BDA2-481B-B43A-C0C48E7ACE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A0F651-BDA2-481B-B43A-C0C48E7ACE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A0F651-BDA2-481B-B43A-C0C48E7ACE43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70CC4498-A722-4C6B-8E5E-9F5EE5DC3DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CC4498-A722-4C6B-8E5E-9F5EE5DC3DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CC4498-A722-4C6B-8E5E-9F5EE5DC3DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CC4498-A722-4C6B-8E5E-9F5EE5DC3DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EA5030-41F0-4F53-B33D-4B1C4FBD49E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EA5030-41F0-4F53-B33D-4B1C4FBD49E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EA5030-41F0-4F53-B33D-4B1C4FBD49E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EA5030-41F0-4F53-B33D-4B1C4FBD49E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
